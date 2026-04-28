@@ -1,0 +1,4 @@
+net-proxy/Throne ~amd64
+dev-libs/qhotkey ~amd64
+dev-go/protobuf-go ~amd64
+dev-go/protoc-gen-go-grpc ~amd64
