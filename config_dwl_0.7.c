@@ -67,11 +67,6 @@ static const MonitorRule monrules[] = {
 
 /* keyboard */
 static const struct xkb_rule_names xkb_rules = {
-	/* здесь можно указать: rules, model, layout, variant, options */
-	/* пример для английской и русской раскладки с переключением по Alt+Shift:
-	.layout = "us,ru",
-	.options = "grp:alt_shift_toggle",
-	*/
 	.options = NULL,
 };
 
