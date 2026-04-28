@@ -1,0 +1,2 @@
+media-video/pipewire sound-server gstreamer jack-client pulseaudio
+media-sound/pulseaudio -daemon
